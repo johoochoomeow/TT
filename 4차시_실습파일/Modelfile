@@ -1,0 +1,6 @@
+FROM exaone-deep:7.8b
+
+SYSTEM """"""
+
+PARAMETER temperature 0
+PARAMETER num_ctx 8192
